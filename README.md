@@ -9,7 +9,7 @@ This project is my old projects I made when I started the microverse trails. it 
 ## Built With
 
 - Major languages
-  Html and css
+  Html and CSS
 - Frameworks
   no frameworks is used
 - Technologies used
