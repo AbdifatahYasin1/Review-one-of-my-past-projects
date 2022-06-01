@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 200vh;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+nav {
+  text-align: center;
+  padding: 30px;
+  width: 100%;
+  background-color: #cdcdcd;
+}
+
+nav h1 {
+  padding: 20px;
+  font-size: 3rem;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#tripute-info {
+  background-color: #eee;
+  color: #333;
+}
+
+#info {
+  background-color: #fff;
+}
+
+#info p {
+  padding: 10px;
+  text-align: center;
+}
+
+#tripute-info ul li {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: left;
+}
+#tripute-info h3 {
+  padding: 10px;
+  text-align: center;
+}
+
+#tripute-info blockquote {
+  padding: 10px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-style: italic;
+  font-weight: 200;
+}
+#tripute-info span {
+  font-weight: bolder;
+}
